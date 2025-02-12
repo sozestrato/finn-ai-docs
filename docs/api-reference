@@ -1,7 +1,10 @@
 ---
-id: api
-title: api
+id: api-reference
+title: API Reference
+---
 
-# Finn AI Overview
+# API Reference
 
-Bienvenido a la documentación de Finn AI.
+Bienvenido a la documentación de la API de Finn AI.
+
+Aquí encontrarás todos los detalles sobre la integración con nuestra API.
