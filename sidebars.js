@@ -2,12 +2,17 @@ module.exports = {
   docs: [
     {
       type: 'category',
-      label: 'Finn AI',
-      collapsed: false,
+      label: 'Finn AI Documentation',
+      collapsed: false, // 🔥 Asegura que la barra lateral NO esté colapsada
       items: [
-        'api-reference',
+        'overview', 
+        'features',
+        'api',
         'getting-started',
         'how-it-works',
+        'faqs',
+        'security',
+        'community',
       ],
     },
   ],
