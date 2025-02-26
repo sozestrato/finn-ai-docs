@@ -5,9 +5,9 @@ module.exports = {
       label: 'Finn AI',
       collapsed: false,
       items: [
-        'api', 
-        'getting started', 
-        'how it works',
+        'api-reference',
+        'getting-started',
+        'how-it-works',
       ],
     },
   ],
